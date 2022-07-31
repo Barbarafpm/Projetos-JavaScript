@@ -1,4 +1,6 @@
+# Projetos-JavaScript
 projetos para praticar em Javascript
+
 
 O visual da calculadora foi feita em HTML e CSS, mas o foco do projeto era fazer a calculadora funcionar em Javascript.
 
