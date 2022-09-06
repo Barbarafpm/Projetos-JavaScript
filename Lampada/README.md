@@ -1,4 +1,4 @@
-## projetos para praticar em Javascript
+## Projetos para praticar em Javascript
 
 
 Projeto simples, onde usei o JavaScript para fazer os botões "ligar" e "desligar" funcionarem. 
